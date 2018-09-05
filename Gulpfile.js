@@ -6,7 +6,7 @@ const
   // source and build folders
   dir = {
     src         : '',
-    build       : '../olympus/wp-content/themes/olympus'
+    build       : '../html/wp-content/themes/olympus-theme'
   },
 
   // Gulp and plugins

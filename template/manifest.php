@@ -109,7 +109,7 @@ These could be SPANs or DIVs and with entirely different classes.
             <div class="mani-field rank"><img src="/wp-content/themes/olympus/images/pips/navy_gold/r-o5.png" /></div><div class="mani-field position"><p>Commanding Officer</p></div><div class="mani-field character"><p><a href="/crew/elgor-rae/">Elgor Rae</a></p></div>
          </div>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/olympus/images/pips/navy_gold/r-o4.png" /></div><div class="mani-field position"><p>Executive Officer</p></div><div class="mani-field character"><p><a href="/crew/marcus-bancroft/">Marcus Bancroft</a></p></div>
+            <div class="mani-field rank"><img src="/wp-content/themes/olympus/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Executive Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
          <div class="row">
             <div class="mani-field rank"><img src="/wp-content/themes/olympus/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Chief Flight Controller</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
@@ -118,7 +118,7 @@ These could be SPANs or DIVs and with entirely different classes.
             <div class="mani-field rank"><img src="/wp-content/themes/olympus/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Chief of Operations</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/olympus/images/pips/navy_gold/y-o3.png" /></div><div class="mani-field position"><p>Chief Tactical & Security Officer</p></div><div class="mani-field character"><p><a href="/crew/victor-chang/">Victor Chang</a></p></div>
+            <div class="mani-field rank"><img src="/wp-content/themes/olympus/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Chief Tactical & Security Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
          <div class="row">
             <div class="mani-field rank"><img src="/wp-content/themes/olympus/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Chief Engineer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
@@ -127,10 +127,10 @@ These could be SPANs or DIVs and with entirely different classes.
             <div class="mani-field rank"><img src="/wp-content/themes/olympus/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Chief Science Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/olympus/images/pips/navy_gold/t-o4.png" /></div><div class="mani-field position"><p>Chief Medical Officer</p></div><div class="mani-field character"><p><a href="/crew/talamor-ren/">Talamor Ren</a></p></div>
+            <div class="mani-field rank"><img src="/wp-content/themes/olympus/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Chief Medical Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/olympus/images/pips/navy_gold/t-o4.png" /></div><div class="mani-field position"><p class="second-off">Ship's Counselor<br><span>Second Officer</span></p></div><div class="mani-field character"><p><a href="/crew/gisella/">Gisella</a></p></div>
+            <div class="mani-field rank"><img src="/wp-content/themes/olympus/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p class="second-off">Ship's Counselor<br><span>Second Officer</span></p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
          <div class="row">
             <div class="mani-field rank"><img src="/wp-content/themes/olympus/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Chief Intelligence Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
@@ -193,7 +193,7 @@ These could be SPANs or DIVs and with entirely different classes.
             <div class="mani-field rank"><img src="/wp-content/themes/olympus/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Assistant Chief Medical Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/olympus/images/pips/navy_gold/t-o1.png" /></div><div class="mani-field position"><p>Medical Officer</p></div><div class="mani-field character"><p><a href="/crew/quentin-singma/">Quentin Singma</a></p></div>
+            <div class="mani-field rank"><img src="/wp-content/themes/olympus/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Medical Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
          </div>
       </div>
 
