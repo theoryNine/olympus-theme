@@ -36,10 +36,9 @@ get_header(); ?>
          <p>The <em>USS Olympus</em>, NCC-79631, is a Play-by-Post RPG based out of <a href="http://www.bravofleet.com" target="_blank">Bravo Fleet's</a> <a href="http://www.bravofleet.com/group/task-force-38/" target="_blank">Task Force 38</a>. 
          Upon arriving in the Delta Quadrant via the Solarian Gate, the <em>Olympus</em> engaged the Borg at the Battle of the Round Table. 
          A furious melee to defend the gateway to the Alpha Quadrant, the battle would cost the lives of countless Starfleet officers. 
-         Among them were the Captain of the <em>Olympus</em>, along with several of her staff. With the destruction of the Solarian Gateway, the ship's former XO, <a href="/manifest/elgor-rae">Elgor Rae</a>, is thrust into the role of command. 
-         For now, there would be no backup; no new ships, no new officer with four pips on their collar to take the center chair. 
-         They would make do with what they had. A decade ago the starship <em>Voyager</em> crossed the galaxy to return home, so too would Task Force 38 and the 
-         <em>Olympus</em>.</p>
+         Among them were the Captain of the <em>Olympus</em>, along with several of her staff. Now, the ship and her crew sail the stars in a journey 
+         of exploration, discovery, and peacekeeping under the command of <a href="/manifest/elgor-rae">Elgor Rae</a>, all the while keeping an eye on the many maleovolent forces working in the dark recesses of this
+         barely explored region of space.</p>
 
          </div
 
