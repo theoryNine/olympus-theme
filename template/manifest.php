@@ -5,21 +5,6 @@ Template Name: Manifest Template
 ?>
 
 <?php
-/**
- * The main template file
- *
- * This is the most generic template file in a WordPress theme
- * and one of the two required files for a theme (the other being style.css).
- * It is used to display a page when nothing more specific matches a query.
- * E.g., it puts together the home page when no home.php file exists.
- *
- * @link https://codex.wordpress.org/Template_Hierarchy
- *
- * @package WordPress
- * @subpackage Twenty_Seventeen
- * @since 1.0
- * @version 1.0
- */
 
 get_header(); ?>
 
@@ -98,15 +83,19 @@ These could be SPANs or DIVs and with entirely different classes.
    This would also need CSS to make it actually full width.
    */
    ?>
+<div class="hero"><img src="/wp-content/themes/olympus/images/bridge.jpg" /></div>
+
+<div class="intro section">
+      <h1 class="text-center">crew <span class="heavy">MANIFEST</span></h1>
+      <p class="text-center">The writers and dreamers of the Olympus.</p>
+</div>
 
 <div class="section">
    <div class="manifest">
-
-
       <div class="department section">
          <h3>SENIOR STAFF</h3>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/olympus/images/pips/navy_gold/r-o5.png" /></div><div class="mani-field position"><p>Commanding Officer</p></div><div class="mani-field character"><p><a href="/crew/elgor-rae/">Elgor Rae</a></p></div>
+            <div class="mani-field rank"><img src="/wp-content/themes/olympus/images/pips/navy_gold/r-o5.png" /></div><div class="mani-field position"><p>Commanding Officer</p></div><div class="mani-field character"><p><a href="/manifest/elgor-rae/">Elgor Rae</a></p></div>
          </div>
          <div class="row">
             <div class="mani-field rank"><img src="/wp-content/themes/olympus/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Executive Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>

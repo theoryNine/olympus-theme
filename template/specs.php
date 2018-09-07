@@ -5,21 +5,6 @@ Template Name: Ship Specs Template
 ?>
 
 <?php
-/**
- * The main template file
- *
- * This is the most generic template file in a WordPress theme
- * and one of the two required files for a theme (the other being style.css).
- * It is used to display a page when nothing more specific matches a query.
- * E.g., it puts together the home page when no home.php file exists.
- *
- * @link https://codex.wordpress.org/Template_Hierarchy
- *
- * @package WordPress
- * @subpackage Twenty_Seventeen
- * @since 1.0
- * @version 1.0
- */
 
 get_header(); ?>
 
@@ -31,12 +16,20 @@ get_header(); ?>
          <p>The <span class="heavy">Olympus</span> is a <em>Century-class</em> starship, built to help return Starfleet to its roots of exploration and discovery, while having the teeth to defend its borders. <em>The Century-class</em> ship was built to nearly match the size of her larger <em>Sovereign-class</em> counterpart while requiring significantly less crew and manpower through advanced automation.</p>
       </div>
       <div class="text-center section subnav-section">
-         <div class="subnav"><h3>gallery</></h3></div>
+         <div class="subnav"><h3><a href="#gallery">gallery</a></h3></div>
          <div class="subnav"><h3><a href="#athena">athena</a></h3></div>
          <div class="subnav"><h3><a href="#specifications">specifications</a></h3></div>
          <div class="subnav"><h3><a href="#layout">deck layout</a></h3></div>
       </div>
       <div class="text-center section gallery" id="gallery">
+            <div>
+                  <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+                  <div class="entry">
+                        <?php the_content(); ?>
+                  </div><!-- entry -->
+                  <?php endwhile; ?>
+            <?php endif; ?>
+            </div>
       </div>
 
       <div class="section athena" id="athena"><h1 class="text-center">introducing: <span class="heavy">ATHENA</span></h1>
@@ -94,7 +87,7 @@ get_header(); ?>
             <p><strong>Shuttlebays:</strong> 3<br>
             Support Craft:
                <ul>
-                  <li><strong>Shuttles:</strong>12 (8x <a href="http://wiki.bravofleet.com/index.php?title=Type_8_shuttlecraft" target="_blank">Type-8</a>, 4x <a href="http://wiki.bravofleet.com/index.php?title=Type_11_shuttlecraft" target="_blank">Type-11</a>)</li>
+                  <li><strong>Shuttles:</strong> 12 (8x <a href="http://wiki.bravofleet.com/index.php?title=Type_8_shuttlecraft" target="_blank">Type-8</a>, 4x <a href="http://wiki.bravofleet.com/index.php?title=Type_11_shuttlecraft" target="_blank">Type-11</a>)</li>
                   <li><strong>Runabouts:</strong> 3 (1x <a href="http://wiki.bravofleet.com/index.php?title=Arrow_class" target="_blank">Arrow-class</a>, 1x <a href="http://wiki.bravofleet.com/index.php?title=Argo_class" target="_blank">Argo-class</a>, 1x <a href="http://wiki.bravofleet.com/index.php?title=Delta_class" target="_blank">Delta-class</a>)</li>
                </ul>
             </p>
@@ -135,15 +128,6 @@ get_header(); ?>
       </div>
 
 
-
-      <?php
-/*
-Surrounding Classes for the site
-These are different every theme and help with structure and layout
-These could be SPANs or DIVs and with entirely different classes.
-*/
-?>
-
 <div id="primary" class="site-content">
    <div id="content" role="main">
       <?php
@@ -161,32 +145,6 @@ These could be SPANs or DIVs and with entirely different classes.
       Post classes are very handy to style your forums.
       */
       ?>
-
-      <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
-
-
-         <?php
-   /*
-   This is the content wrapped in a div
-    
-   and class to better style the content
-   */
-   ?>
-
-   <div class="entry-content">
-      <?php the_content(); ?>
-   </div>
-
-   <!-- .entry-content -->
-
-
-   <?php
-   /*
-   End of Page
-   */
-   ?>
-
-</article>
 
 <!-- #post -->
 <?php endwhile; // end of the loop. ?>

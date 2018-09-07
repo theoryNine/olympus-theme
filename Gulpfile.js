@@ -6,7 +6,7 @@ const
   // source and build folders
   dir = {
     src         : '',
-    build       : '../html/wp-content/themes/olympus-theme'
+    build       : '../olympus/wp-content/themes/olympus'
   },
 
   // Gulp and plugins
@@ -35,8 +35,8 @@ const php = {
 
 // image settings
 const images = {
-  src         : dir.src + 'images/**/*',
-  build       : dir.build + 'images/'
+  src         : dir.src + '/images/**/*',
+  build       : dir.build + '/images/'
 };
 
 // image processing
