@@ -26,6 +26,7 @@ These could be SPANs or DIVs and with entirely different classes.
       <h1 class="text-center"><span class="heavy">JOIN</span> the olympus</h1>
       <p>To join the <em>Olympus</em> please fill out the following form. To identify open positions, take a look at the <a href="/manifest">crew manifest</a>.</p>
       <p>Once you've submitted an application you should hear back within 24-48 hours.</p>
+      <p>Upon being accepted you will receive a welcome email and login details for the site and forums.</p>
 </div>
 
 <div class="section">
