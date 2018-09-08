@@ -39,6 +39,8 @@ These could be SPANs or DIVs and with entirely different classes.
    <p><strong><span class="key">Species:</span></strong> <span class="key"><?php the_field('species'); ?></span></p>
    <p><strong><span class="key">Gender:</span></strong> <span class="key"><?php the_field('gender'); ?></span></p>
    <p><strong><span class="key">Birthdate:</span></strong> <span class="key"><?php the_field('birthdate'); ?></span></p>
+   <p><strong><span class="key">Physical Description:</span></strong></p>
+   <p><span class="key"><?php the_field('physical_description'); ?></span></p><br>
    <p><strong><span class="key">History:</span></strong></p>
    <p><span class="key"><?php the_field('history'); ?></span></p><br>
       <p><strong><span class="key">Service Record:</span></strong></p>
