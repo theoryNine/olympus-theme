@@ -95,7 +95,10 @@ These could be SPANs or DIVs and with entirely different classes.
       <div class="department section">
          <h3>SENIOR STAFF</h3>
          <div class="row">
-            <div class="mani-field rank"><img src="/wp-content/themes/olympus/images/pips/navy_gold/r-o5.png" /></div><div class="mani-field position"><p>Commanding Officer</p></div><div class="mani-field character"><p><a href="/manifest/elgor-rae/">Elgor Rae</a></p></div>
+            <div class="mani-field rank"><img src="/wp-content/themes/olympus/images/pips/navy_gold/r-o5.png" /></div><div class="mani-field position"><p class="tooltips" title="Originally known as helm, or Flight Control Officer, 
+            CONN incorporates two jobs, Navigation and flight control. A Flight Control Officer must always be present on the bridge of a starship. 
+            S/he plots courses, supervises the computers piloting, corrects any flight deviations and pilots the ship manually when needed. 
+            The Chief Flight Control Officer is the senior most CONN Officer aboard, serving as a Senior Officer, and Chief of the Personnel under him/her.">Commanding Officer</p></div><div class="mani-field character"><p><a href="/manifest/elgor-rae/">Elgor Rae</a></p></div>
          </div>
          <div class="row">
             <div class="mani-field rank"><img src="/wp-content/themes/olympus/images/pips/blank_officer/black.png" /></div><div class="mani-field position"><p>Executive Officer</p></div><div class="mani-field character"><p><a href="/enlist">Position Available</a></p></div>
