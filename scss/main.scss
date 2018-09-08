@@ -37,3 +37,9 @@ a:hover {
 .row {
    lost-column: 1/1;
 }
+
+.Zebra_Tooltip {
+    background: var(--dark-gray);
+    border: 1px solid var(--dark-white);
+    font-size: 14px;
+}
